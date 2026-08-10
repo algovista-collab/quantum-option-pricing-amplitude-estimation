@@ -1,11 +1,12 @@
 # Quantum Option Pricing via Amplitude Estimation
 
-A from-scratch Qiskit implementation of the quantum option pricing methodology from
+A Qiskit implementation of the quantum option pricing methodology from
 **Stamatopoulos et al., "Option Pricing using Quantum Computers" (2020)** — a JPMorgan Chase
 & IBM Quantum collaboration, [arXiv:1905.02666](https://arxiv.org/abs/1905.02666).
 
-**Status:** Work in progress — implementation and validation in progress, results and
-write-up to follow.
+**Full write-up:** [Implementing "Option Pricing using Quantum Computers" in Qiskit](https://medium.com/@arpitha.rajeev37/image-processing-in-quantum-computers-a76ee63f5041)
+
+**Paper implemented:** [arXiv:1905.02666](https://arxiv.org/abs/1905.02666)
 
 ## What this covers
 
