@@ -40,11 +40,7 @@ ever simulated.
 Every circuit is validated in stages before being used as a building block for the next: first
 against an independently, classically computed ground truth using exact statevector inspection,
 then via Amplitude Estimation on a noiseless simulator, then -- where applicable -- on real IBM
-Quantum hardware. Several notebooks document real bugs found and fixed along the way (a
-comparator-branch payoff mismatch, a `qiskit-algorithms` real-hardware transpilation issue, a
-rotation-angle convention mismatch against the paper's stated formula) -- these are left in the
-notebooks and the accompanying blog posts, not smoothed over, since the debugging process is
-often as informative as the final working result.
+Quantum hardware.
 
 ## Setup
 
